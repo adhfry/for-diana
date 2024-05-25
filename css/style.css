@@ -59,16 +59,10 @@ body {
   animation-delay: 1.8s;
 }
 .greetings > span:nth-child(11) {
-  animation-delay: 1.8s;
+  animation-delay: 2s;
 }
 .greetings > span:nth-child(12) {
-  animation-delay: 1.8s;
-}
-.greetings > span:nth-child(13) {
-  animation-delay: 1.8s;
-}
-.greetings > span:nth-child(14) {
-  animation-delay: 1.8s;
+  animation-delay: 2.2s;
 }
 
 .description {
